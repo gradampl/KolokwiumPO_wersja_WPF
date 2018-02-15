@@ -1,0 +1,15 @@
+c:\users\adam\documents\visual studio 2013\Projects\Wpf_KolokwiumW3\Wpf_KolokwiumW3\bin\Debug\Wpf_KolokwiumW3.exe.config
+c:\users\adam\documents\visual studio 2013\Projects\Wpf_KolokwiumW3\Wpf_KolokwiumW3\bin\Debug\Wpf_KolokwiumW3.exe
+c:\users\adam\documents\visual studio 2013\Projects\Wpf_KolokwiumW3\Wpf_KolokwiumW3\bin\Debug\Wpf_KolokwiumW3.pdb
+c:\users\adam\documents\visual studio 2013\Projects\Wpf_KolokwiumW3\Wpf_KolokwiumW3\obj\Debug\Wpf_KolokwiumW3.csprojResolveAssemblyReference.cache
+c:\users\adam\documents\visual studio 2013\Projects\Wpf_KolokwiumW3\Wpf_KolokwiumW3\obj\Debug\MainWindow.baml
+c:\users\adam\documents\visual studio 2013\Projects\Wpf_KolokwiumW3\Wpf_KolokwiumW3\obj\Debug\MainWindow.g.cs
+c:\users\adam\documents\visual studio 2013\Projects\Wpf_KolokwiumW3\Wpf_KolokwiumW3\obj\Debug\App.g.cs
+c:\users\adam\documents\visual studio 2013\Projects\Wpf_KolokwiumW3\Wpf_KolokwiumW3\obj\Debug\Wpf_KolokwiumW3_MarkupCompile.cache
+c:\users\adam\documents\visual studio 2013\Projects\Wpf_KolokwiumW3\Wpf_KolokwiumW3\obj\Debug\Wpf_KolokwiumW3.g.resources
+c:\users\adam\documents\visual studio 2013\Projects\Wpf_KolokwiumW3\Wpf_KolokwiumW3\obj\Debug\Wpf_KolokwiumW3.Properties.Resources.resources
+c:\users\adam\documents\visual studio 2013\Projects\Wpf_KolokwiumW3\Wpf_KolokwiumW3\obj\Debug\Wpf_KolokwiumW3.csproj.GenerateResource.Cache
+c:\users\adam\documents\visual studio 2013\Projects\Wpf_KolokwiumW3\Wpf_KolokwiumW3\obj\Debug\Wpf_KolokwiumW3.exe
+c:\users\adam\documents\visual studio 2013\Projects\Wpf_KolokwiumW3\Wpf_KolokwiumW3\obj\Debug\Wpf_KolokwiumW3.pdb
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\Wpf_KolokwiumW3\Wpf_KolokwiumW3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\Wpf_KolokwiumW3\Wpf_KolokwiumW3\obj\Debug\Wpf_KolokwiumW3_MarkupCompile.lref
